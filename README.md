@@ -1,0 +1,1 @@
+# QnA-Application-with-OpenAI-and-Ollama
