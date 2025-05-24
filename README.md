@@ -18,7 +18,6 @@ An interactive question-answering chatbot app that leverages OpenAI and Ollama m
 
 ## 🌍 Project Structure
 ```
-.
 ├── app.py           # Streamlit app using OpenAI GPT models
 ├── ollama.py        # Streamlit app using Ollama (open-source LLMs)
 ├── requirements.txt # All dependencies for environment setup
